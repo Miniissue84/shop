@@ -18,4 +18,7 @@ Welcome to **Trandy Shop by Ishita**, a curated online store featuring the lates
 - HTML, CSS, and JavaScript for the front-end
 - Python for automation of product listings
 
+Visit the shop here: 🌐 [Trandy Shop by Ishita](https://miniissue84.github.io/shop/)  
+Follow me on Instagram: 📸 [Miniissue84](https://www.instagram.com/Miniissue84)
+
 Thank you for visiting Trandy Shop by Ishita!
